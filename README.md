@@ -2,23 +2,24 @@
 
 ### B.Sc. (Hons.) Computer Science @ SSCBS
 
-I'm a first-year CS student exploring the world of programming, one bug at a time.
+I'm a first-year CS student figuring out the world of programming, one bug at a time.
 
-Currently focused on **Python, SQL, and problem-solving**, while exploring **HTML, CSS & JavaScript**. I'm also building towards **DSA, AI/ML, Data Science, and Backend Development**.
+Currently focused on **Python, SQL, and building strong programming fundamentals**. I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
 
+--- 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 B.Sc. (Hons.) Computer Science @ **Shaheed Sukhdev College of Business Studies**
 - 🌱 Currently in my **1st semester**
-- 🐍 **Intermediate → Advanced** in Python
-- 🗄️ **Intermediate** in SQL
-- 🔧 **Intermediate** in Git & GitHub
+- 🐍 Comfortable with **Python**
+- 🗄️ Working with **SQL**
 - 🌐 Currently learning **HTML, CSS & JavaScript**
 - 🚀 Planning to learn **C++** next
 - 🧠 Interested in **AI/ML, Data Science, Backend Development & DSA**
-- 🔨 Currently focused on strengthening my skills and building projects
+- 🔨 Currently focused on building skills before diving deeper into projects
+
 
 ---
 
@@ -51,12 +52,14 @@ Alongside this, I'm strengthening my **Python, SQL, and problem-solving skills**
 ## 🎯 Areas I'm Interested In
 
 - 🐍 Python
+- ⚙️ C++
 - 🧠 AI / Machine Learning
 - 📊 Data Science
 - ⚙️ Backend Development
 - 🧩 Data Structures & Algorithms
 
-Still exploring what I want to specialize in — there's plenty of time to figure that out.
+
+Still exploring what I want to specialize in.
 
 ---
 
@@ -78,9 +81,9 @@ More projects coming soon...
 
 ### 💻 Current Skills
 
-- 🐍 **Python** — Intermediate → Advanced
-- 🗄️ **SQL** — Intermediate
-- 🔧 **Git & GitHub** — Intermediate
+- 🐍 **Python**
+- 🗄️ **SQL**
+- 🔧 **Git & GitHub** 
 
 ### 📚 Currently Learning
 
