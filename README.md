@@ -1,145 +1,51 @@
-# Hi there, I'm Shivansh 👋
+# Hey, I'm Shivansh 👋
 
-### 🐍 Python Learner | 💻 Aspiring Developer | 📚 Student
+### B.Sc. (Hons.) Computer Science @ SSCBS
 
-Welcome to my GitHub profile!
+I'm a first-year CS student figuring out the world of programming,
+one bug at a time.
 
-I'm currently learning **Python and programming fundamentals**, building projects, completing assignments, and improving my problem-solving skills one step at a time.
-
----
-
-## 🚀 About Me
-
-- 🎓 Student interested in technology and programming
-- 🐍 Currently learning **Python**
-- 💻 Practicing programming through assignments and projects
-- 🧠 Interested in problem-solving and software development
-- 📈 Continuously learning and improving my skills
-- 🔨 Building projects to gain practical experience
+Currently focused on **Python, SQL, and building strong programming fundamentals**.
+I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🧑‍💻 About Me
 
-### Currently Learning
+- 🎓 B.Sc. (Hons.) Computer Science @ **Shaheed Sukhdev College of Business Studies**
+- 🌱 Currently in my **1st semester**
+- 🐍 Comfortable with **Python**
+- 🗄️ Working with **SQL**
+- 🌐 Currently learning **HTML, CSS & JavaScript**
+- 🚀 Planning to learn **C++** next
+- 🧠 Interested in **AI/ML, Data Science, Backend Development & DSA**
+- 🔨 Currently focused on building skills before diving deeper into projects
 
-![Python]
-![HTML]
-![CSS]
-![JS]
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+> C++ — coming soon 👀
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Currently Learning
 
 ```text
-Python
- ├── Variables & Data Types
- ├── Input & Output
- ├── Conditional Statements
- ├── Loops
- ├── Strings
- ├── Lists, Tuples & Sets
- ├── Dictionaries
- ├── Functions
- ├── File Handling
- └── Problem Solving
-````
-
-I'm gradually moving from the fundamentals toward more advanced Python concepts and projects.
-
----
-
-## 📂 My Repositories
-
-### 🐍 Python Assignments
-
-A collection of my Python assignments and practice programs.
-
-➡️ [View Python Assignments](https://github.com/shivansh570/python-assignments)
-
----
-
-## 🎯 Goals
-
-* [ ] Strengthen Python fundamentals
-* [ ] Learn Object-Oriented Programming
-* [ ] Learn Data Structures & Algorithms
-* [ ] Build real-world Python projects
-* [ ] Learn Git & GitHub properly
-* [ ] Explore other areas of software development
-* [ ] Contribute to open-source projects
-
----
-
-## 📊 GitHub Stats
-
-![Shivansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivansh570\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh570\&layout=compact\&theme=tokyonight)
-
----
-
-## 📈 My Learning Journey
-
-> **Learn → Practice → Build → Improve → Repeat 🔁**
-
-This profile documents my journey as I learn programming and build my skills through hands-on practice.
-
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shivansh570)
-
----
-
-⭐ Feel free to explore my repositories and follow along with my learning journey!
-
-**Thanks for visiting! 👋**
-
-````
-
-### 📌 How your GitHub profile will be structured
-
-Your GitHub should have a **special repository with the exact same name as your username**:
-
-```text
-shivansh570/
-└── README.md       ← Profile README
-````
-
-While your assignments stay separately:
-
-```text
-python-assignments/
-├── README.md
-├── p1.py
-├── p2.py
-├── p3.py
-└── ...
-```
-
-That way, your **profile README introduces you**, while each individual repository has its own README describing the project.
-## Hi there 👋
-
-<!--
-**shivansh570/shivansh570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML → CSS → JavaScript
+             ↓
+        Web Fundamentals
+             ↓
+        More Projects 🚀
