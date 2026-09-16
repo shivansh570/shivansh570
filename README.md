@@ -78,9 +78,9 @@ More projects coming soon...
 **Python** ──────────────── ●  
 **SQL** ────────────────    ●  
 **Git & GitHub** ────────   ●  
-**HTML** ──────────→  
-**CSS** ───→  
-**JavaScript** ─→ 
+**HTML** ──────────→        ● 
+**CSS** ───→                ● 
+**JavaScript** ─→           ● 
 
 **Learn → Build → Break → Fix → Repeat**
 
