@@ -2,10 +2,9 @@
 
 ### B.Sc. (Hons.) Computer Science @ SSCBS
 
-I'm a first-year CS student figuring out the world of programming,
-one bug at a time.
+I'm a first-year CS student figuring out the world of programming, one bug at a time.
 
-Currently focused on **Python, SQL, and building strong programming fundamentals**.
+Currently focused on **Python, SQL, and building strong programming fundamentals**.  
 I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
 
 ---
@@ -28,7 +27,7 @@ I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
 ### Tools
