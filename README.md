@@ -76,11 +76,11 @@ More projects coming soon...
 ## 🌱 Learning Journey
 
 **Python** ──────────────── ●  
-**SQL** ─────────────────── ●  
-**Git & GitHub** ────────── ●  
-**HTML** ─────────────────→  
-**CSS** ──────────────────→  
-**JavaScript** ───────────→  
+**SQL** ────────────────    ●  
+**Git & GitHub** ────────   ●  
+**HTML** ──────────→  
+**CSS** ───→  
+**JavaScript** ─→ 
 
 **Learn → Build → Break → Fix → Repeat**
 
