@@ -1,8 +1,3 @@
-Absolutely — for a **GitHub Profile README**, you want something different from the repository README. It should introduce you, show what you're learning, and highlight your projects.
-
-Here’s a clean, professional version you can put in your GitHub profile repository (`shivansh570/README.md`):
-
-````markdown
 # Hi there, I'm Shivansh 👋
 
 ### 🐍 Python Learner | 💻 Aspiring Developer | 📚 Student
@@ -28,7 +23,10 @@ I'm currently learning **Python and programming fundamentals**, building project
 
 ### Currently Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python]
+![HTML]
+![CSS]
+![JS]
 
 ### Tools
 
