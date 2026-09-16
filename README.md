@@ -4,8 +4,7 @@
 
 I'm a first-year CS student figuring out the world of programming, one bug at a time.
 
-Currently focused on **Python, SQL, and building strong programming fundamentals**.  
-I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
+Currently focused on **Python, SQL, and building strong programming fundamentals**. I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
 
 ---
 
@@ -42,14 +41,80 @@ I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
 
 ## 📚 Currently Learning
 
-```text
-HTML → CSS → JavaScript
-             ↓
-        Web Fundamentals
-🐍 Python
-🧠 AI / Machine Learning
-📊 Data Science
-⚙️ Backend Development
-🧩 Data Structures & Algorithms
-             ↓
-        More Projects 🚀
+**HTML → CSS → JavaScript → Web Fundamentals → Projects 🚀**
+
+Alongside this, I'm strengthening my **Python, SQL, and problem-solving fundamentals**.
+
+---
+
+## 🎯 Areas I'm Interested In
+
+- 🐍 Python
+- 🧠 AI / Machine Learning
+- 📊 Data Science
+- ⚙️ Backend Development
+- 🧩 Data Structures & Algorithms
+
+Still exploring what I want to specialize in — there's plenty of time to figure that out.
+
+---
+
+## 📂 Projects
+
+Currently building the skills and fundamentals needed to start working on bigger projects.
+
+### 🐍 Python Assignments
+
+A collection of my Python assignments and practice programs.
+
+[→ View Repository](https://github.com/shivansh570/python-assignments)
+
+More projects coming soon...
+
+---
+
+## 🌱 Learning Journey
+
+**Python** ──────────────── ●  
+**SQL** ─────────────────── ●  
+**Git & GitHub** ────────── ●  
+
+**HTML** ─────────────────→  
+**CSS** ──────────────────→  
+**JavaScript** ───────────→  
+
+**C++** ───────────────────→ 👀  
+**DSA** ───────────────────→  
+**AI / ML** ───────────────→  
+**Data Science** ──────────→  
+**Backend** ───────────────→  
+
+**Learn → Build → Break → Fix → Repeat**
+
+---
+
+## 🎧 Beyond Code
+
+When I'm not coding:
+
+🎵 Music  
+🎮 Games  
+📖 Manga  
+💻 Probably still doing something related to tech
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/shivansh-singla-develop">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shivanshsingla12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<sub>Currently learning. Occasionally confused. Always debugging. 🐛</sub>
