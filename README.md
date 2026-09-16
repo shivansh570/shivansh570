@@ -2,9 +2,9 @@
 
 ### B.Sc. (Hons.) Computer Science @ SSCBS
 
-I'm a first-year CS student figuring out the world of programming, one bug at a time.
+I'm a first-year CS student exploring the world of programming, one bug at a time.
 
-Currently focused on **Python, SQL, and building strong programming fundamentals**. I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
+Currently focused on **Python, SQL, and problem-solving**, while exploring **HTML, CSS & JavaScript**. I'm also building towards **DSA, AI/ML, Data Science, and Backend Development**.
 
 ---
 
@@ -12,18 +12,19 @@ Currently focused on **Python, SQL, and building strong programming fundamentals
 
 - 🎓 B.Sc. (Hons.) Computer Science @ **Shaheed Sukhdev College of Business Studies**
 - 🌱 Currently in my **1st semester**
-- 🐍 Comfortable with **Python**
-- 🗄️ Working with **SQL**
+- 🐍 **Intermediate → Advanced** in Python
+- 🗄️ **Intermediate** in SQL
+- 🔧 **Intermediate** in Git & GitHub
 - 🌐 Currently learning **HTML, CSS & JavaScript**
 - 🚀 Planning to learn **C++** next
 - 🧠 Interested in **AI/ML, Data Science, Backend Development & DSA**
-- 🔨 Currently focused on building skills before diving deeper into projects
+- 🔨 Currently focused on strengthening my skills and building projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
@@ -43,7 +44,7 @@ Currently focused on **Python, SQL, and building strong programming fundamentals
 
 **HTML → CSS → JavaScript → Web Fundamentals → Projects 🚀**
 
-Alongside this, I'm strengthening my **Python, SQL, and problem-solving fundamentals**.
+Alongside this, I'm strengthening my **Python, SQL, and problem-solving skills**.
 
 ---
 
@@ -61,7 +62,7 @@ Still exploring what I want to specialize in — there's plenty of time to figur
 
 ## 📂 Projects
 
-Currently building the skills and fundamentals needed to start working on bigger projects.
+Currently building my skills and fundamentals before diving deeper into larger projects.
 
 ### 🐍 Python Assignments
 
@@ -75,14 +76,26 @@ More projects coming soon...
 
 ## 🌱 Learning Journey
 
-**Python** ──────────────── ●  
-**SQL** ────────────────    ●  
-**Git & GitHub** ────────   ●  
-**HTML** ──────────→        ● 
-**CSS** ───→                ● 
-**JavaScript** ─→           ● 
+### 💻 Current Skills
 
-**Learn → Build → Break → Fix → Repeat**
+- 🐍 **Python** — Intermediate → Advanced
+- 🗄️ **SQL** — Intermediate
+- 🔧 **Git & GitHub** — Intermediate
+
+### 📚 Currently Learning
+
+- 🌐 **HTML & CSS**
+- ⚡ **JavaScript**
+
+### 🔭 Next Up
+
+- ⚙️ **C++**
+- 🧩 **Data Structures & Algorithms**
+- 🤖 **AI / Machine Learning**
+- 📊 **Data Science**
+- 🔙 **Backend Development**
+
+> **Learn → Build → Break → Fix → Repeat 🔁**
 
 ---
 
