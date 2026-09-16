@@ -46,5 +46,10 @@ I'm also exploring **HTML, CSS & JavaScript**, with C++ coming up next.
 HTML → CSS → JavaScript
              ↓
         Web Fundamentals
+🐍 Python
+🧠 AI / Machine Learning
+📊 Data Science
+⚙️ Backend Development
+🧩 Data Structures & Algorithms
              ↓
         More Projects 🚀
